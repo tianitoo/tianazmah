@@ -1,3 +1,6 @@
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/hnait" alt="hnait's 42 stats" /></a>
+
+
 - 👋 Hi, I’m @tianazmah
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Next JS
