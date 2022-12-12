@@ -1,4 +1,4 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hnait" alt="hnait's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/blue/hnait" alt="hnait's 42 stats" /></a>
 
 
 - 👋 Hi, I’m @tianazmah
