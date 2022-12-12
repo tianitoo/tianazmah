@@ -4,8 +4,8 @@
 - 👋 Hi, I’m Tian
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Next JS, Django, Vue JS.
-- 📫 How to reach me:
-       - email: <a href = "mailto: hamza2nait@gmail.com">Send Email</a>
+- 📫 How to reach me:<br/>
+       - email: <a href = "mailto: hamza2nait@gmail.com">Send Email</a><br/>
        - Instagram: nait.hamzaa
           
 <!---
