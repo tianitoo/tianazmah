@@ -1,9 +1,9 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/blue/hnait" alt="hnait's 42 stats" /></a>
 
 
-- 👋 Hi, I’m @tianazmah
+- 👋 Hi, I’m Tian
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning Next JS, Django, Vue JS. 
 - 📫 How to reach me:
           hamza2nait@gmail.com
           
