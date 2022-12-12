@@ -5,7 +5,7 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Next JS, Django, Vue JS.
 - 📫 How to reach me:<br/>
-       - email: <a href = "mailto: hamza2nait@gmail.com">Send Email</a><br/>
+       - email: <a href = "mailto: hamza2nait@gmail.com">hamza2nait@gmail.com</a><br/>
        - Instagram: nait.hamzaa
           
 <!---
