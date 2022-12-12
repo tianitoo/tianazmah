@@ -5,8 +5,8 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Next JS, Django, Vue JS.
 - 📫 How to reach me:
-          email: <a href = "mailto: hamza2nait@gmail.com">Send Email</a>
-          Instagram: nait.hamzaa
+       - email: <a href = "mailto: hamza2nait@gmail.com">Send Email</a>
+       - Instagram: nait.hamzaa
           
 <!---
 tianazmah/tianazmah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
