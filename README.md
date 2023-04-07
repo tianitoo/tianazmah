@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Tian
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning Next JS, Django, Vue JS.
+- 🌱 I’m currently learning Next JS, Tailwind, Prisma, TypeScript.
 - 📫 How to reach me:<br/>
        - email: <a href = "mailto: hamza2nait@gmail.com">hamza2nait@gmail.com</a><br/>
        - Instagram: nait.hamzaa
